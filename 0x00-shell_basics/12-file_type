@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/iamafile | echo "txt file" > /tmp/iamafile | file /tmp/iamafile
+file /tmp/iamafile
